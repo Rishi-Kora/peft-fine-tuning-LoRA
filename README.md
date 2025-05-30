@@ -142,4 +142,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, contact **Rishi Kora** at **[rishikora@example.com](mailto:korarishi@gmail.com)**.
+For questions or feedback, contact **Rishi Kora** at **[korarishi@gmail.com](mailto:korarishi@gmail.com)**.
